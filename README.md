@@ -33,5 +33,9 @@
   <a href = "https://www.instagram.com/minoruyamanaka9/">
     <img width="25" src="instagram.png">
   </a>
- 
+ </div>
+
+<div align="center">
  ![Snake animation](https://github.com/minoru-yamanaka/minoru-yamanaka/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
