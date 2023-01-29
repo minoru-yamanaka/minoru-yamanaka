@@ -1,4 +1,4 @@
- ## Olá sou minoru yamanaka ✨✨
+ ## Olá! ✨✨
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FAFAD2&size=36&right=true&vright=true&width=1000&lines=Não+é+magia;é+TECNOLOGIA!;Sou+Minoru+Yamanaka)](https://git.io/typing-svg)
 
