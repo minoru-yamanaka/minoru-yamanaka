@@ -1,6 +1,6 @@
  ## Olá sou minoru yamanaka ✨✨
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FAFAD2&size=38&right=true&vright=true&width=1000&lines=Não+é+magia;É+TECNOLOGIA!;Sou+Minoru+Yamanaka)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FAFAD2&size=36&right=true&vright=true&width=1000&lines=Não+é+magia;É+TECNOLOGIA!;Sou+Minoru+Yamanaka)](https://git.io/typing-svg)
 
 <div >
   <img height="100em" src="https://github-readme-stats.vercel.app/api?username=minoru-yamanaka&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
